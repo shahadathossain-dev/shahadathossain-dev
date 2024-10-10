@@ -15,7 +15,7 @@ Skills: DART / FLUTTER / OOP / GIT / GITHUB
 
 - 🌱 I’m currently learning High level app developement
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/shahadathossain-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/shahadathossain-dev](https://github.com/shahadathossain-dev)
 
 - 💬 Ask me about **DART, FLUTTER, STATE MANAGEMENT**
 
