@@ -11,9 +11,7 @@ Skills: DART / FLUTTER / OOP / GIT / GITHUB
 
 </div>
 
-- 🔭 I’m currently working on a remote job.
-
-- 🌱 I’m currently learning High level app developement
+- 🔭I’m currently working remotely and learning advanced app development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahadathossain-dev](https://github.com/shahadathossain-dev)
 
